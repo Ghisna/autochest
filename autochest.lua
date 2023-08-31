@@ -1,8 +1,3 @@
-getgenv().Config = {
-    ["Select Team"] = "Pirates", -- Marines/Pirates
-    ["White Screen"] = false,
-    ["Stop After Have God Chalice Or Fist Of Darkness"] = true
-}
 spawn(function() 
     repeat
         task.wait()
